@@ -35,6 +35,4 @@ Personal notes and experiments on probability, statistics, and trading models.
 - Preparing for university-level CS and AI
 
 ## Contact
-
-- GitHub: @你的用户名
-- Email: 你的邮箱
+NA
